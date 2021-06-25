@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://mohammed123:mohammed123@gamersconnection.a27um.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId":"b15f5780167d1e0f6c28",
+    "githubSecret": "4ceac1d92b4bca40dae1814dd341aba2112d0aed"
+}
